@@ -1,0 +1,79 @@
+Flavio Pinheiro
+18706
+
+https://github.com/flaviofigpinheiro/fewd_lab_1
+
+// 3. Declare a variable firstName and initialize it with the value of your name .
+// 4. Declare a variable favouriteColor and initialize it with a string value .
+// 5. Several variables are declared and initialized in 2 program lines:
+
+var firstName = 'Flavio';
+var favouriteColor = 'Grey';
+var favouriteFood = 'Pizza';
+var city = 'Lubambashi';
+var country = 'Congo';
+var secondCity = 'Belo Horizonte';
+
+
+
+// 6. Which value does x have after execution of the following code?
+
+
+x will be 'Toe'.
+
+// 7. Which value does y have after execution of the following code?
+
+
+y will be 'Laurel'.
+
+
+
+// 8. Using console.log() display the value for your firstName , favouriteColor , favouriteFood and city variables as 3 separate statements.
+// 9. Make a single-line comment above your console.log() statement and specify
+// what the code does.
+
+// this code will print all variables listed.
+console.log(' My name is 'firstName + ' and my favorite color is ' + favouriteColor + ', favorite food is: ' + favouriteFood + 'and my home City is ' + city);
+
+
+// 10.Below the console.log() statement write down a set of new variables:
+// phrase, endingPhrase, one, two, three, four, five, six, seven
+
+
+var phrase = 'A rainbow is formed by the sunlight. Shining through rain drops so small. The rain bends the light from the sunshine, and colors the sky for us all.'
+var endingPhrase = 'is what we see. Rainbow colours, are made with light bending you see!'
+var one = 'Red';
+var two = 'orange';
+var three = 'yellow';
+var four = 'green';
+var five = 'blue';
+var six = 'indigo';
+var seven = 'violet';
+
+
+
+
+// 11. Write a new console.log() statement below your variable declaration which
+// displays the text like so in the terminal:
+
+
+
+console.log(phrase + ' ' + one + ', ' + two + ', ' + three + ', ' + four + ', ' + five + ', ' + six + ', ' + seven + ' ' + endingPhrase);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
